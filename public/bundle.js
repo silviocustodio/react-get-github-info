@@ -23171,7 +23171,7 @@ var SearchUser = React.createClass({
                         'button',
                         { type: 'submit',
                             className: 'btn btn-primary' },
-                        'Buscar'
+                        'Search User'
                     )
                 )
             )

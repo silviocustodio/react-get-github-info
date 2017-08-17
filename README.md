@@ -1,4 +1,4 @@
-# react-get-github-info
+# Check this project, Access: https://silviocustodio.github.io/react-get-github-info/public
 Starting with React.js, project that searches the GitHub user name and its respective repositories via Github's own api
 
 * Setup with Webpack
